@@ -1,0 +1,6 @@
+Hello! How are you doing?
+
+This project is a replica of the command line shell terminal which is capable of most of the operations done by the shell terminal.
+
+Thank You!
+
