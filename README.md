@@ -8,8 +8,7 @@ In this project, I crafted a simple Unix shell in C++. This custom shell allows 
 
 ## Video Walkthrough
 
-![](UnixShell/test_folder/demo.mp4)
-
+https://github.com/user-attachments/assets/bf6fc1a1-09e8-4c33-bed0-e7b44b65c95e
 
 
 ## Running the Program
